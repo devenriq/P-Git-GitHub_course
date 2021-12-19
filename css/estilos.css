@@ -1,0 +1,48 @@
+*{
+  font-family: Courier;
+  margin: 00;
+  padding: 0;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(29, 29, 29);
+}
+
+#cabecera {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 0;
+  height: 100px;
+  background-color: rgb(92, 44, 136);
+  color: white;
+  font-size: 2em;
+  box-shadow: 0px 3px 21px 1px rgba(99,92,92,0.75);
+  -webkit-box-shadow: 0px 3px 21px 1px rgba(99,92,92,0.75);
+  -moz-box-shadow: 0px 3px 21px 1px rgba(99,92,92,0.75);
+}
+
+#logo {
+  width: 60px;
+  margin: 20px;
+}
+.container {
+  width: 70%;
+  border: 2px black solid;
+  margin: auto;
+  background-color: white;
+}
+
+h1{
+
+  color: blueviolet;
+}
+
+#footer {
+  background-color: rgb(71, 71, 71);
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
