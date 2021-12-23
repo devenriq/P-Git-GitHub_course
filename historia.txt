@@ -1,7 +1,7 @@
-Hola, me llamo Octavio Enrique Palomino Castello y tengo 24 años. Estudié ing civil y
-ahora mismo estoy cambiando de carrera. Es por ello que estoy escribiendo esto en VSCode.
+Esta es la historia de Enrique Palomino Castello
 
-Muchas gracias.
+Enrique tiene 24 años y nació en Perú
 
-Trato de hacer lo posible por lograr lo mio, pero malos hábitos y malas prácticas me detienen.
-Esto es solo una línea
+Hoy hablaremos de su vida
+
+Se ve delgado, pero tiene 15 kg de sobrepeso
